@@ -89,13 +89,41 @@
 "Hounslow","Apprenticeship","E09000018","Mixed or Mulitple ethnic groups",279
 "Hounslow","Apprenticeship","E09000018","White",5153
 "Hounslow","Apprenticeship","E09000018","Other",466
-"Islington","Apprenticeship","E09000019","Asian, Asian British or Asian Welsh",219,754,267,2702,270
-"Kensington and Chelsea","Apprenticeship","E09000020","Asian, Asian British or Asian Welsh",225,298,170,1451,235
-"Kingston upon Thames","Apprenticeship","E09000021","Asian, Asian British or Asian Welsh",344,96,97,3604,183
-"Lambeth","Apprenticeship","E09000022","Asian, Asian British or Asian Welsh",320,2175,542,3345,590
-"Lewisham","Apprenticeship","E09000023","Asian, Asian British or Asian Welsh",362,2152,474,3845,428
-"Merton","Apprenticeship","E09000024","Asian, Asian British or Asian Welsh",556,635,216,4109,237
-"Newham","Apprenticeship","E09000025","Asian, Asian British or Asian Welsh",2252,1437,329,4139,462
+"Islington","Apprenticeship","E09000019","Asian, Asian British or Asian Welsh",219
+"Islington","Apprenticeship","E09000019",,754
+"Islington","Apprenticeship","E09000019",,267
+"Islington","Apprenticeship","E09000019",,2702
+"Islington","Apprenticeship","E09000019",,270
+"Kensington and Chelsea","Apprenticeship","E09000020","Asian, Asian British or Asian Welsh",225
+"Kensington and Chelsea","Apprenticeship","E09000020",,298
+"Kensington and Chelsea","Apprenticeship","E09000020",,170
+"Kensington and Chelsea","Apprenticeship","E09000020",,1451
+"Kensington and Chelsea","Apprenticeship","E09000020",,235
+"Kingston upon Thames","Apprenticeship","E09000021","Asian, Asian British or Asian Welsh",344
+"Kingston upon Thames","Apprenticeship","E09000021",,96
+"Kingston upon Thames","Apprenticeship","E09000021",,97
+"Kingston upon Thames","Apprenticeship","E09000021",,3604
+"Kingston upon Thames","Apprenticeship","E09000021",,183
+"Lambeth","Apprenticeship","E09000022","Asian, Asian British or Asian Welsh",320
+"Lambeth","Apprenticeship","E09000022",,2175
+"Lambeth","Apprenticeship","E09000022",,542
+"Lambeth","Apprenticeship","E09000022",,3345
+"Lambeth","Apprenticeship","E09000022",,590
+"Lewisham","Apprenticeship","E09000023","Asian, Asian British or Asian Welsh",362
+"Lewisham","Apprenticeship","E09000023",,2152
+"Lewisham","Apprenticeship","E09000023",,474
+"Lewisham","Apprenticeship","E09000023",,3845
+"Lewisham","Apprenticeship","E09000023",,428
+"Merton","Apprenticeship","E09000024","Asian, Asian British or Asian Welsh",556
+"Merton","Apprenticeship","E09000024",,635,
+"Merton","Apprenticeship","E09000024",216,
+"Merton","Apprenticeship","E09000024",4109,
+"Merton","Apprenticeship","E09000024",237
+"Newham","Apprenticeship","E09000025","Asian, Asian British or Asian Welsh",2252
+"Newham","Apprenticeship","E09000025",,1437
+"Newham","Apprenticeship","E09000025",,329
+"Newham","Apprenticeship","E09000025",,4139
+"Newham","Apprenticeship","E09000025",,462
 "Redbridge","Apprenticeship","E09000026","Asian, Asian British or Asian Welsh",1794,585,224,4572,381
 "Richmond upon Thames","Apprenticeship","E09000027","Asian, Asian British or Asian Welsh",169,81,100,3249,144
 "Southwark","Apprenticeship","E09000028","Asian, Asian British or Asian Welsh",329,1898,481,3140,660
@@ -159,14 +187,58 @@
 "Kensington and Chelsea","Level 4","E09000020","Asian, Asian British or Asian Welsh",8879,4000,3483,50834,6030
 "Kingston upon Thames","Level 4","E09000021","Asian, Asian British or Asian Welsh",14262,1969,2427,46777,4149
 "Lambeth","Level 4","E09000022","Asian, Asian British or Asian Welsh",11350,22232,8622,103379,5729
-"Lewisham","Level 4","E09000023","Asian, Asian British or Asian Welsh",11062,26483,6549,72393,4327
-"Merton","Level 4","E09000024","Asian, Asian British or Asian Welsh",16311,8161,3382,54958,3601
-"Newham","Level 4","E09000025","Asian, Asian British or Asian Welsh",43300,19870,4047,38942,4970
-"Redbridge","Level 4","E09000026","Asian, Asian British or Asian Welsh",51714,9487,2834,33434,5227
-"Richmond upon Thames","Level 4","E09000027","Asian, Asian British or Asian Welsh",8820,1607,3224,77369,3069
-"Southwark","Level 4","E09000028","Asian, Asian British or Asian Welsh",15116,25770,7177,86348,6102
-"Sutton","Level 4","E09000029","Asian, Asian British or Asian Welsh",16543,5123,2131,39402,2690
-"Tower Hamlets","Level 4","E09000030","Asian, Asian British or Asian Welsh",37879,7478,5901,70951,5091
-"Waltham Forest","Level 4","E09000031","Asian, Asian British or Asian Welsh",16221,13411,4641,57186,4451
-"Wandsworth","Level 4","E09000032","Asian, Asian British or Asian Welsh",17152,10141,6976,131318,5759
-"Westminster","Level 4","E09000033","Asian, Asian British or Asian Welsh",17100,5826,5256,63989,10185
+"Lewisham","Level 4","E09000023","Asian, Asian British or Asian Welsh",11062
+"Lewisham","Level 4","E09000023",26483
+"Lewisham","Level 4","E09000023",6549
+"Lewisham","Level 4","E09000023",72393
+"Lewisham","Level 4","E09000023",4327
+"Merton","Level 4","E09000024","Asian, Asian British or Asian Welsh",16311
+"Merton","Level 4","E09000024",,8161
+"Merton","Level 4","E09000024",,3382
+"Merton","Level 4","E09000024",,54958
+"Merton","Level 4","E09000024",,3601
+"Newham","Level 4","E09000025","Asian, Asian British or Asian Welsh",43300
+"Newham","Level 4","E09000025",,19870
+"Newham","Level 4","E09000025",,4047
+"Newham","Level 4","E09000025",,38942
+"Newham","Level 4","E09000025",,4970
+"Redbridge","Level 4","E09000026","Asian, Asian British or Asian Welsh",51714
+"Redbridge","Level 4","E09000026",,9487
+"Redbridge","Level 4","E09000026",,2834
+"Redbridge","Level 4","E09000026",,33434
+"Redbridge","Level 4","E09000026",,5227
+"Richmond upon Thames","Level 4","E09000027","Asian, Asian British or Asian Welsh",8820
+"Richmond upon Thames","Level 4","E09000027",,1607
+"Richmond upon Thames","Level 4","E09000027",,3224
+"Richmond upon Thames","Level 4","E09000027",,77369
+"Richmond upon Thames","Level 4","E09000027",,3069
+"Southwark","Level 4","E09000028","Asian, Asian British or Asian Welsh",15116
+"Southwark","Level 4","E09000028",,25770
+"Southwark","Level 4","E09000028",,7177
+"Southwark","Level 4","E09000028",,86348
+"Southwark","Level 4","E09000028",,6102
+"Sutton","Level 4","E09000029","Asian, Asian British or Asian Welsh",16543
+"Sutton","Level 4","E09000029",,5123
+"Sutton","Level 4","E09000029",,2131
+"Sutton","Level 4","E09000029",,39402
+"Sutton","Level 4","E09000029",,2690
+"Tower Hamlets","Level 4","E09000030","Asian, Asian British or Asian Welsh",37879
+"Tower Hamlets","Level 4","E09000030",,7478
+"Tower Hamlets","Level 4","E09000030",,5901
+"Tower Hamlets","Level 4","E09000030",,70951
+"Tower Hamlets","Level 4","E09000030",,5091
+"Waltham Forest","Level 4","E09000031","Asian, Asian British or Asian Welsh",16221
+"Waltham Forest","Level 4","E09000031",,13411
+"Waltham Forest","Level 4","E09000031",,4641
+"Waltham Forest","Level 4","E09000031",,57186
+"Waltham Forest","Level 4","E09000031",,4451
+"Wandsworth","Level 4","E09000032","Asian, Asian British or Asian Welsh",17152
+"Wandsworth","Level 4","E09000032",,10141
+"Wandsworth","Level 4","E09000032",,6976
+"Wandsworth","Level 4","E09000032",,131318
+"Wandsworth","Level 4","E09000032",,5759
+"Westminster","Level 4","E09000033","Asian, Asian British or Asian Welsh",17100
+"Westminster","Level 4","E09000033",,5826
+"Westminster","Level 4","E09000033",,5256
+"Westminster","Level 4","E09000033",,63989
+"Westminster","Level 4","E09000033",,10185
