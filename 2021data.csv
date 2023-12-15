@@ -1,100 +1,172 @@
-"Borough","Qualification Type","GSScode","Asian, Asian British or Asian Welsh","Black, Black British, Black Welsh, Caribbean or African","Mixed or Multiple ethnic groups","White","Other ethnic group"
-"Barking and Dagenham","Apprenticeship","E09000002",740,835,189,4281,217
-"Barnet","Apprenticeship","E09000003",1122,543,306,6925,734
-"Bexley","Apprenticeship","E09000004",351,417,148,9162,149
-"Brent","Apprenticeship","E09000005",1888,1656,464,4716,805
-"Bromley","Apprenticeship","E09000006",256,491,320,9309,183
-"Camden","Apprenticeship","E09000007",433,371,183,2153,262
-"City of London","Apprenticeship","E09000001",8,11,6,46,8
-"Croydon","Apprenticeship","E09000008",928,2199,575,7627,457
-"Ealing","Apprenticeship","E09000009",1961,991,349,5911,800
-"Enfield","Apprenticeship","E09000010",517,1491,428,6684,935
-"Greenwich","Apprenticeship","E09000011",609,1294,308,5449,279
-"Hackney","Apprenticeship","E09000012",337,1542,323,2271,467
-"Hammersmith and Fulham","Apprenticeship","E09000013",250,600,197,2239,247
-"Haringey","Apprenticeship","E09000014",382,1409,432,3794,764
-"Harrow","Apprenticeship","E09000015",1409,428,175,4286,358
-"Havering","Apprenticeship","E09000016",329,397,170,9745,136
-"Hillingdon","Apprenticeship","E09000017",1519,504,271,7603,401
-"Hounslow","Apprenticeship","E09000018",1755,437,279,5153,466
-"Islington","Apprenticeship","E09000019",219,754,267,2702,270
-"Kensington and Chelsea","Apprenticeship","E09000020",225,298,170,1451,235
-"Kingston upon Thames","Apprenticeship","E09000021",344,96,97,3604,183
-"Lambeth","Apprenticeship","E09000022",320,2175,542,3345,590
-"Lewisham","Apprenticeship","E09000023",362,2152,474,3845,428
-"Merton","Apprenticeship","E09000024",556,635,216,4109,237
-"Newham","Apprenticeship","E09000025",2252,1437,329,4139,462
-"Redbridge","Apprenticeship","E09000026",1794,585,224,4572,381
-"Richmond upon Thames","Apprenticeship","E09000027",169,81,100,3249,144
-"Southwark","Apprenticeship","E09000028",329,1898,481,3140,660
-"Sutton","Apprenticeship","E09000029",399,284,157,6284,158
-"Tower Hamlets","Apprenticeship","E09000030",1973,495,262,2457,255
-"Waltham Forest","Apprenticeship","E09000031",740,1161,304,5062,432
-"Wandsworth","Apprenticeship","E09000032",486,888,323,3551,330
-"Westminster","Apprenticeship","E09000033",498,412,210,2179,450
-"Barking and Dagenham","Level 3","E09000002",5374,4789,802,10214,640
-"Barnet","Level 3","E09000003",6109,3291,1944,23798,3399
-"Bexley","Level 3","E09000004",2071,2828,921,26093,598
-"Brent","Level 3","E09000005",9778,7535,1856,12402,2767
-"Bromley","Level 3","E09000006",1770,2686,1653,32576,735
-"Camden","Level 3","E09000007",4984,2576,1880,14365,1349
-"City of London","Level 3","E09000001",133,30,34,488,28
-"Croydon","Level 3","E09000008",6406,10910,3128,23551,1541
-"Ealing","Level 3","E09000009",10141,5169,1959,17379,3272
-"Enfield","Level 3","E09000010",3899,6890,1868,18133,3686
-"Greenwich","Level 3","E09000011",3163,6480,1741,17653,1117
-"Hackney","Level 3","E09000012",2894,6891,1726,10884,1776
-"Hammersmith and Fulham","Level 3","E09000013",2043,2997,1365,12536,1224
-"Haringey","Level 3","E09000014",2271,5934,1673,13301,2081
-"Harrow","Level 3","E09000015",10692,2443,1001,10388,1900
-"Havering","Level 3","E09000016",2594,2218,966,27893,451
-"Hillingdon","Level 3","E09000017",9338,3180,1631,19857,1827
-"Hounslow","Level 3","E09000018",8944,2351,1372,13577,1802
-"Islington","Level 3","E09000019",2368,3610,1825,13037,1497
-"Kensington and Chelsea","Level 3","E09000020",2043,1491,1094,9366,1445
-"Kingston upon Thames","Level 3","E09000021",2839,744,911,14357,913
-"Lambeth","Level 3","E09000022",2277,9505,2636,15705,1812
-"Lewisham","Level 3","E09000023",2348,10008,2434,15437,1314
-"Merton","Level 3","E09000024",3678,2908,1225,12990,986
-"Newham","Level 3","E09000025",14479,7652,1671,10350,1631
-"Redbridge","Level 3","E09000026",15080,3109,1274,11841,1770
-"Richmond upon Thames","Level 3","E09000027",1327,435,846,15706,516
-"Southwark","Level 3","E09000028",3316,9092,2262,15051,1854
-"Sutton","Level 3","E09000029",2949,1399,1082,19690,746
-"Tower Hamlets","Level 3","E09000030",14971,2969,1626,12704,1075
-"Waltham Forest","Level 3","E09000031",5998,5342,1719,14199,1512
-"Wandsworth","Level 3","E09000032",3617,4277,1849,20195,1276
-"Westminster","Level 3","E09000033",3509,2116,1543,12109,2743
-"Barking and Dagenham","Level 4","E09000002",16952,16288,1344,17263,1943
-"Barnet","Level 4","E09000003",33670,12260,5765,85640,14307
-"Bexley","Level 4","E09000004",9585,13141,1532,35680,1899
-"Brent","Level 4","E09000005",36848,16338,4651,42663,9498
-"Bromley","Level 4","E09000006",14479,10425,4219,81327,3060
-"Camden","Level 4","E09000007",15881,6106,5058,68515,6372
-"City of London","Level 4","E09000001",955,104,259,4333,287
-"Croydon","Level 4","E09000008",27062,30013,6369,59108,4792
-"Ealing","Level 4","E09000009",35360,11313,5001,66966,12341
-"Enfield","Level 4","E09000010",14261,18025,4072,48032,8981
-"Greenwich","Level 4","E09000011",15826,22631,4246,58325,3898
-"Hackney","Level 4","E09000012",9489,16605,6441,71604,5586
-"Hammersmith and Fulham","Level 4","E09000013",10168,6725,4025,62674,5454
-"Haringey","Level 4","E09000014",9176,13831,5738,69061,6464
-"Harrow","Level 4","E09000015",49748,6777,2336,29699,5757
-"Havering","Level 4","E09000016",11685,9008,1747,37735,1746
-"Hillingdon","Level 4","E09000017",36936,7210,2644,38111,5763
-"Hounslow","Level 4","E09000018",38123,5901,3012,41689,6351
-"Islington","Level 4","E09000019",10727,8627,5723,73384,5512
-"Kensington and Chelsea","Level 4","E09000020",8879,4000,3483,50834,6030
-"Kingston upon Thames","Level 4","E09000021",14262,1969,2427,46777,4149
-"Lambeth","Level 4","E09000022",11350,22232,8622,103379,5729
-"Lewisham","Level 4","E09000023",11062,26483,6549,72393,4327
-"Merton","Level 4","E09000024",16311,8161,3382,54958,3601
-"Newham","Level 4","E09000025",43300,19870,4047,38942,4970
-"Redbridge","Level 4","E09000026",51714,9487,2834,33434,5227
-"Richmond upon Thames","Level 4","E09000027",8820,1607,3224,77369,3069
-"Southwark","Level 4","E09000028",15116,25770,7177,86348,6102
-"Sutton","Level 4","E09000029",16543,5123,2131,39402,2690
-"Tower Hamlets","Level 4","E09000030",37879,7478,5901,70951,5091
-"Waltham Forest","Level 4","E09000031",16221,13411,4641,57186,4451
-"Wandsworth","Level 4","E09000032",17152,10141,6976,131318,5759
-"Westminster","Level 4","E09000033",17100,5826,5256,63989,10185
+"Borough","Qualification Type","GSScode","Ethnic Demo","Num of Peeple"
+"Barking and Dagenham","Apprenticeship","E09000002","Asian, Asian British or Asian Welsh",740
+"Barking and Dagenham","Apprenticeship","E09000002","Black, Black British, Black Welsh, Caribbean or African",835
+"Barking and Dagenham","Apprenticeship","E09000002","Mixed or Multiple ethnic groups,189
+"Barking and Dagenham","Apprenticeship","E09000002","White",4281
+"Barking and Dagenham","Apprenticeship","E09000002","Other,217
+"Barnet","Apprenticeship","E09000003","Asian, Asian British or Asian Welsh",1122
+"Barnet","Apprenticeship","E09000003","Black, Black British, Black Welsh, Caribbean or African",543
+"Barnet","Apprenticeship","E09000003","Mixed or Multiple ethnic groups",306
+"Barnet","Apprenticeship","E09000003","White,6925
+"Barnet","Apprenticeship","E09000003","Other",734
+"Bexley","Apprenticeship","E09000004","Asian, Asian British or Asian Welsh",351
+"Bexley","Apprenticeship","E09000004","Black, Black British, Black Welsh, Caribbean or African",417
+"Bexley","Apprenticeship","E09000004","Mixed or Mulitple ethnic groups",148
+"Bexley","Apprenticeship","E09000004","White",9162
+"Bexley","Apprenticeship","E09000004","Other",149
+"Brent","Apprenticeship","E09000005","Asian, Asian British or Asian Welsh",1888
+"Brent","Apprenticeship","E09000005","Black, Black British, Black Welsh, Caribbean or African",1656
+"Brent","Apprenticeship","E09000005","Mixed or Mulitple ethnic groups",464
+"Brent","Apprenticeship","E09000005","White",4716
+"Brent","Apprenticeship","E09000005","Other",805
+"Bromley","Apprenticeship","E09000006","Asian, Asian British or Asian Welsh",256
+"Bromley","Apprenticeship","E09000006","Black, Black British, Black Welsh, Caribbean or African",491
+"Bromley","Apprenticeship","E09000006","Mixed or Mulitple ethnic groups",320
+"Bromley","Apprenticeship","E09000006","White",9309
+"Bromley","Apprenticeship","E09000006","Other",183
+"Camden","Apprenticeship","E09000007","Asian, Asian British or Asian Welsh",433
+"Camden","Apprenticeship","E09000007","Black, Black British, Black Welsh, Caribbean or African",371
+"Camden","Apprenticeship","E09000007","Mixed or Mulitple ethnic groups",183
+"Camden","Apprenticeship","E09000007","White",2153
+"Camden","Apprenticeship","E09000007","Other",262
+"City of London","Apprenticeship","E09000001","Asian, Asian British or Asian Welsh",8
+"City of London","Apprenticeship","E09000001","Black, Black British, Black Welsh, Caribbean or African",11
+"City of London","Apprenticeship","E09000001","Mixed or Mulitple ethnic groups",6
+"City of London","Apprenticeship","E09000001","White",46
+"City of London","Apprenticeship","E09000001","Other",8
+"Croydon","Apprenticeship","E09000008","Asian, Asian British or Asian Welsh",928
+"Croydon","Apprenticeship","E09000008","Black, Black British, Black Welsh, Caribbean or African",2199
+"Croydon","Apprenticeship","E09000008","Mixed or Mulitple ethnic groups",575
+"Croydon","Apprenticeship","E09000008","White",7627
+"Croydon","Apprenticeship","E09000008","Other",457
+"Ealing","Apprenticeship","E09000009","Asian, Asian British or Asian Welsh",1961
+"Ealing","Apprenticeship","E09000009","Black, Black British, Black Welsh, Caribbean or African",991
+"Ealing","Apprenticeship","E09000009","Mixed or Mulitple ethnic groups",349
+"Ealing","Apprenticeship","E09000009","White",5911
+"Ealing","Apprenticeship","E09000009","Other",800
+"Enfield","Apprenticeship","E09000010","Asian, Asian British or Asian Welsh",517
+"Enfield","Apprenticeship","E09000010","Black, Black British, Black Welsh, Caribbean or African",1491
+"Enfield","Apprenticeship","E09000010","Mixed or Mulitple ethnic groups",428
+"Enfield","Apprenticeship","E09000010",White,6684
+"Enfield","Apprenticeship","E09000010",Other,935
+"Greenwich","Apprenticeship","E09000011","Asian, Asian British or Asian Welsh",609
+"Greenwich","Apprenticeship","E09000011","Black, Black British, Black Welsh, Caribbean or African",1294
+"Greenwich","Apprenticeship","E09000011","Mixed or Mulitple ethnic groups",308
+"Greenwich","Apprenticeship","E09000011","White",5449
+"Greenwich","Apprenticeship","E09000011","Other",279
+"Hackney","Apprenticeship","E09000012","Asian, Asian British or Asian Welsh",337
+"Hackney","Apprenticeship","E09000012","Black, Black British, Black Welsh, Caribbean or African",1542
+"Hackney","Apprenticeship","E09000012","Mixed or Mulitple ethnic groups",323
+"Hackney","Apprenticeship","E09000012","White",2271
+"Hackney","Apprenticeship","E09000012","Other",467
+"Hammersmith and Fulham","Apprenticeship","E09000013","Asian, Asian British or Asian Welsh",250
+"Hammersmith and Fulham","Apprenticeship","E09000013","Black, Black British, Black Welsh, Caribbean or African",600
+"Hammersmith and Fulham","Apprenticeship","E09000013","Mixed or Mulitple ethnic groups",197
+"Hammersmith and Fulham","Apprenticeship","E09000013","White",2239
+"Hammersmith and Fulham","Apprenticeship","E09000013","Other",247
+"Haringey","Apprenticeship","E09000014","Asian, Asian British or Asian Welsh",382
+"Haringey","Apprenticeship","E09000014","Black, Black British, Black Welsh, Caribbean or African",1409
+"Haringey","Apprenticeship","E09000014","Mixed or Mulitple ethnic groups",432
+"Haringey","Apprenticeship","E09000014","White",3794
+"Haringey","Apprenticeship","E09000014",Other",764
+"Harrow","Apprenticeship","E09000015","Asian, Asian British or Asian Welsh",1409
+"Harrow","Apprenticeship","E09000015","Black, Black British, Black Welsh, Caribbean or African",428
+"Harrow","Apprenticeship","E09000015","Mixed or Mulitple ethnic groups",175
+"Harrow","Apprenticeship","E09000015","White",4286
+"Harrow","Apprenticeship","E09000015",Other",358
+"Havering","Apprenticeship","E09000016","Asian, Asian British or Asian Welsh",329
+"Havering","Apprenticeship","E09000016","Black, Black British, Black Welsh, Caribbean or African",397
+"Havering","Apprenticeship","E09000016","Mixed or Mulitple ethnic groups",170
+"Havering","Apprenticeship","E09000016","White",9745
+"Havering","Apprenticeship","E09000016",Other",136
+"Hillingdon","Apprenticeship","E09000017","Asian, Asian British or Asian Welsh",1519
+"Hillingdon","Apprenticeship","E09000017","Black, Black British, Black Welsh, Caribbean or African",504
+"Hillingdon","Apprenticeship","E09000017","Mixed or Mulitple ethnic groups",271
+"Hillingdon","Apprenticeship","E09000017","White",7603
+"Hillingdon","Apprenticeship","E09000017",Other",401
+"Hounslow","Apprenticeship","E09000018","Asian, Asian British or Asian Welsh",1755
+"Hounslow","Apprenticeship","E09000018","Black, Black British, Black Welsh, Caribbean or African",437
+"Hounslow","Apprenticeship","E09000018","Mixed or Mulitple ethnic groups",279
+"Hounslow","Apprenticeship","E09000018","White",5153
+"Hounslow","Apprenticeship","E09000018",Other",466
+"Islington","Apprenticeship","E09000019","Asian, Asian British or Asian Welsh",219,754,267,2702,270
+"Kensington and Chelsea","Apprenticeship","E09000020","Asian, Asian British or Asian Welsh",225,298,170,1451,235
+"Kingston upon Thames","Apprenticeship","E09000021","Asian, Asian British or Asian Welsh",344,96,97,3604,183
+"Lambeth","Apprenticeship","E09000022","Asian, Asian British or Asian Welsh",320,2175,542,3345,590
+"Lewisham","Apprenticeship","E09000023","Asian, Asian British or Asian Welsh",362,2152,474,3845,428
+"Merton","Apprenticeship","E09000024","Asian, Asian British or Asian Welsh",556,635,216,4109,237
+"Newham","Apprenticeship","E09000025","Asian, Asian British or Asian Welsh",2252,1437,329,4139,462
+"Redbridge","Apprenticeship","E09000026","Asian, Asian British or Asian Welsh",1794,585,224,4572,381
+"Richmond upon Thames","Apprenticeship","E09000027","Asian, Asian British or Asian Welsh",169,81,100,3249,144
+"Southwark","Apprenticeship","E09000028","Asian, Asian British or Asian Welsh",329,1898,481,3140,660
+"Sutton","Apprenticeship","E09000029","Asian, Asian British or Asian Welsh",399,284,157,6284,158
+"Tower Hamlets","Apprenticeship","E09000030","Asian, Asian British or Asian Welsh",1973,495,262,2457,255
+"Waltham Forest","Apprenticeship","E09000031","Asian, Asian British or Asian Welsh",740,1161,304,5062,432
+"Wandsworth","Apprenticeship","E09000032","Asian, Asian British or Asian Welsh",486,888,323,3551,330
+"Westminster","Apprenticeship","E09000033","Asian, Asian British or Asian Welsh",498,412,210,2179,450
+"Barking and Dagenham","Level 3","E09000002","Asian, Asian British or Asian Welsh",5374,4789,802,10214,640
+"Barnet","Level 3","E09000003","Asian, Asian British or Asian Welsh",6109,3291,1944,23798,3399
+"Bexley","Level 3","E09000004","Asian, Asian British or Asian Welsh",2071,2828,921,26093,598
+"Brent","Level 3","E09000005","Asian, Asian British or Asian Welsh",9778,7535,1856,12402,2767
+"Bromley","Level 3","E09000006","Asian, Asian British or Asian Welsh",1770,2686,1653,32576,735
+"Camden","Level 3","E09000007","Asian, Asian British or Asian Welsh",4984,2576,1880,14365,1349
+"City of London","Level 3","E09000001","Asian, Asian British or Asian Welsh",133,30,34,488,28
+"Croydon","Level 3","E09000008","Asian, Asian British or Asian Welsh",6406,10910,3128,23551,1541
+"Ealing","Level 3","E09000009","Asian, Asian British or Asian Welsh",10141,5169,1959,17379,3272
+"Enfield","Level 3","E09000010","Asian, Asian British or Asian Welsh",3899,6890,1868,18133,3686
+"Greenwich","Level 3","E09000011","Asian, Asian British or Asian Welsh",3163,6480,1741,17653,1117
+"Hackney","Level 3","E09000012","Asian, Asian British or Asian Welsh",2894,6891,1726,10884,1776
+"Hammersmith and Fulham","Level 3","Asian, Asian British or Asian Welsh","E09000013",2043,2997,1365,12536,1224
+"Haringey","Level 3","E09000014","Asian, Asian British or Asian Welsh",2271,5934,1673,13301,2081
+"Harrow","Level 3","E09000015","Asian, Asian British or Asian Welsh",10692,2443,1001,10388,1900
+"Havering","Level 3","E09000016","Asian, Asian British or Asian Welsh",2594,2218,966,27893,451
+"Hillingdon","Level 3","E09000017","Asian, Asian British or Asian Welsh",9338,3180,1631,19857,1827
+"Hounslow","Level 3","E09000018","Asian, Asian British or Asian Welsh",8944,2351,1372,13577,1802
+"Islington","Level 3","E09000019","Asian, Asian British or Asian Welsh",2368,3610,1825,13037,1497
+"Kensington and Chelsea","Level 3","E09000020","Asian, Asian British or Asian Welsh",2043,1491,1094,9366,1445
+"Kingston upon Thames","Level 3","E09000021","Asian, Asian British or Asian Welsh",2839,744,911,14357,913
+"Lambeth","Level 3","E09000022","Asian, Asian British or Asian Welsh",2277,9505,2636,15705,1812
+"Lewisham","Level 3","E09000023","Asian, Asian British or Asian Welsh",2348,10008,2434,15437,1314
+"Merton","Level 3","E09000024","Asian, Asian British or Asian Welsh",3678,2908,1225,12990,986
+"Newham","Level 3","E09000025","Asian, Asian British or Asian Welsh",14479,7652,1671,10350,1631
+"Redbridge","Level 3","E09000026","Asian, Asian British or Asian Welsh",15080,3109,1274,11841,1770
+"Richmond upon Thames","Level 3","E09000027","Asian, Asian British or Asian Welsh",1327,435,846,15706,516
+"Southwark","Level 3","E09000028","Asian, Asian British or Asian Welsh",3316,9092,2262,15051,1854
+"Sutton","Level 3","E09000029","Asian, Asian British or Asian Welsh",2949,1399,1082,19690,746
+"Tower Hamlets","Level 3","E09000030","Asian, Asian British or Asian Welsh",14971,2969,1626,12704,1075
+"Waltham Forest","Level 3","E09000031","Asian, Asian British or Asian Welsh",5998,5342,1719,14199,1512
+"Wandsworth","Level 3","E09000032","Asian, Asian British or Asian Welsh",3617,4277,1849,20195,1276
+"Westminster","Level 3","E09000033","Asian, Asian British or Asian Welsh",3509,2116,1543,12109,2743
+"Barking and Dagenham","Level 4","E09000002","Asian, Asian British or Asian Welsh",16952,16288,1344,17263,1943
+"Barnet","Level 4","E09000003","Asian, Asian British or Asian Welsh",33670,12260,5765,85640,14307
+"Bexley","Level 4","E09000004","Asian, Asian British or Asian Welsh",9585,13141,1532,35680,1899
+"Brent","Level 4","E09000005","Asian, Asian British or Asian Welsh",36848,16338,4651,42663,9498
+"Bromley","Level 4","E09000006","Asian, Asian British or Asian Welsh",14479,10425,4219,81327,3060
+"Camden","Level 4","E09000007","Asian, Asian British or Asian Welsh",15881,6106,5058,68515,6372
+"City of London","Level 4","E09000001","Asian, Asian British or Asian Welsh",955,104,259,4333,287
+"Croydon","Level 4","E09000008","Asian, Asian British or Asian Welsh",27062,30013,6369,59108,4792
+"Ealing","Level 4","E09000009","Asian, Asian British or Asian Welsh",35360,11313,5001,66966,12341
+"Enfield","Level 4","E09000010","Asian, Asian British or Asian Welsh",14261,18025,4072,48032,8981
+"Greenwich","Level 4","E09000011","Asian, Asian British or Asian Welsh",15826,22631,4246,58325,3898
+"Hackney","Level 4","E09000012","Asian, Asian British or Asian Welsh",9489,16605,6441,71604,5586
+"Hammersmith and Fulham","Level 4","E09000013","Asian, Asian British or Asian Welsh",10168,6725,4025,62674,5454
+"Haringey","Level 4","E09000014","Asian, Asian British or Asian Welsh",9176,13831,5738,69061,6464
+"Harrow","Level 4","E09000015","Asian, Asian British or Asian Welsh",49748,6777,2336,29699,5757
+"Havering","Level 4","E09000016","Asian, Asian British or Asian Welsh",11685,9008,1747,37735,1746
+"Hillingdon","Level 4","E09000017","Asian, Asian British or Asian Welsh",36936,7210,2644,38111,5763
+"Hounslow","Level 4","E09000018","Asian, Asian British or Asian Welsh",38123,5901,3012,41689,6351
+"Islington","Level 4","E09000019","Asian, Asian British or Asian Welsh",10727,8627,5723,73384,5512
+"Kensington and Chelsea","Level 4","E09000020","Asian, Asian British or Asian Welsh",8879,4000,3483,50834,6030
+"Kingston upon Thames","Level 4","E09000021","Asian, Asian British or Asian Welsh",14262,1969,2427,46777,4149
+"Lambeth","Level 4","E09000022","Asian, Asian British or Asian Welsh",11350,22232,8622,103379,5729
+"Lewisham","Level 4","E09000023","Asian, Asian British or Asian Welsh",11062,26483,6549,72393,4327
+"Merton","Level 4","E09000024","Asian, Asian British or Asian Welsh",16311,8161,3382,54958,3601
+"Newham","Level 4","E09000025","Asian, Asian British or Asian Welsh",43300,19870,4047,38942,4970
+"Redbridge","Level 4","E09000026","Asian, Asian British or Asian Welsh",51714,9487,2834,33434,5227
+"Richmond upon Thames","Level 4","E09000027","Asian, Asian British or Asian Welsh",8820,1607,3224,77369,3069
+"Southwark","Level 4","E09000028","Asian, Asian British or Asian Welsh",15116,25770,7177,86348,6102
+"Sutton","Level 4","E09000029","Asian, Asian British or Asian Welsh",16543,5123,2131,39402,2690
+"Tower Hamlets","Level 4","E09000030","Asian, Asian British or Asian Welsh",37879,7478,5901,70951,5091
+"Waltham Forest","Level 4","E09000031","Asian, Asian British or Asian Welsh",16221,13411,4641,57186,4451
+"Wandsworth","Level 4","E09000032","Asian, Asian British or Asian Welsh",17152,10141,6976,131318,5759
+"Westminster","Level 4","E09000033","Asian, Asian British or Asian Welsh",17100,5826,5256,63989,10185
