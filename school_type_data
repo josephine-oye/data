@@ -1,0 +1,34 @@
+"Borough","State School",	"Grammar",	"Private",	"Further Edu State", 	"Further Edu private"
+"Barking and Dagenham",12,0,2,3,0
+"Barnet",24,3,15,3,3
+"Bexley",11,4,0,2,1
+"Brent",16,0,7,1,0
+"Bromley",17,2,0,1,7
+"Camden",10,0,11,5,0
+"City of London",0,0,3,0,0
+"Croydon",25,0,12,3,0
+"Ealing",17,0,7,1,0
+"Enfield",21,1,4,1,0
+"Greenwich",16,0,10,3,0
+"Hackney",16,0,10,3,0
+"Hammersmith and Fulham",11,0,6,2,0
+"Haringey",12,0,4,3,0
+"Harrow",14,0,4,3,1,0
+"Havering",18,0,1,3,0
+"Hillingdon",22,0,4,1,0
+"Hounslow",20,0,5,1,0
+"Islington",10,0,1,3,3
+"Kensington and Chelsea",6,0,10,2,0
+"Kingston upon Thames",7,2,5,2,0
+"Lambeth",17,0,2,6,0
+"Lewisham",14,0,3,2,0
+"Merton",9,0,5,1,0
+"Newham",21,0,5,4,0
+"Redbridge",17,2,2,2,1
+"Richmond upon Thames",11,0,10,2,0
+"Southwark",20,0,3,1,0
+"Sutton",10,5,1,3,0
+"Tower Hamlets",17,0,7,4,0
+"Waltham Forest",15,0,4,0,0
+"Wandsworth",11,0,7,2,0
+"Westminster",11,0,17,4
