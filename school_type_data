@@ -1,34 +1,166 @@
-"Borough","State School","Grammar","Private","Further Edu State","Further Edu private"
-"Barking and Dagenham",12,0,2,3,0
-"Barnet",24,3,15,3,3
-"Bexley",11,4,0,2,1
-"Brent",16,0,7,1,0
-"Bromley",17,2,0,1,7
-"Camden",10,0,11,5,0
-"City of London",0,0,3,0,0
-"Croydon",25,0,12,3,0
-"Ealing",17,0,7,1,0
-"Enfield",21,1,4,1,0
-"Greenwich",16,0,10,3,0
-"Hackney",16,0,10,3,0
-"Hammersmith and Fulham",11,0,6,2,0
-"Haringey",12,0,4,3,0
-"Harrow",14,0,4,3,1,0
-"Havering",18,0,1,3,0
-"Hillingdon",22,0,4,1,0
-"Hounslow",20,0,5,1,0
-"Islington",10,0,1,3,3
-"Kensington and Chelsea",6,0,10,2,0
-"Kingston upon Thames",7,2,5,2,0
-"Lambeth",17,0,2,6,0
-"Lewisham",14,0,3,2,0
-"Merton",9,0,5,1,0
-"Newham",21,0,5,4,0
-"Redbridge",17,2,2,2,1
-"Richmond upon Thames",11,0,10,2,0
-"Southwark",20,0,3,1,0
-"Sutton",10,5,1,3,0
-"Tower Hamlets",17,0,7,4,0
-"Waltham Forest",15,0,4,0,0
-"Wandsworth",11,0,7,2,0
-"Westminster",11,0,17,4
+"Borough","School Type","Count"
+"Barking and Dagenham","State School",12
+"Barking and Dagenham","Grammar",0
+"Barking and Dagenham","Private",2
+"Barking and Dagenham","Further Edu State",3
+"Barking and Dagenham","Further Edu Private",0
+"Barnet","State School",24
+"Barnet","Grammar",3
+"Barnet","Private",15
+"Barnet","Further Edu State",3
+"Barnet","Further Edu Private",3
+"Bexley","State School",11
+"Bexley","Grammar",4
+"Bexley","Private",0
+"Bexley","Further Edu State",2
+"Bexley","Further Edu Private",1
+"Brent","State School",16
+"Brent","Grammar",0
+"Brent","Private",7
+"Brent","Further Edu State",1
+"Brent","Further Edu Private",0
+"Bromley","State School",17
+"Bromley","Grammar",2
+"Bromley","Private",0
+"Bromley","Further Edu State",1
+"Bromley","Further Edu Private",7
+"Camden","State School",10
+"Camden","Grammar",0
+"Camden","Private",11
+"Camden","Further Edu State",5
+"Camden","Further Edu Private",0
+"City of London","State School",0
+"City of London","Grammar",0
+"City of London","Private",3
+"City of London","Further Edu State",0
+"City of London","Further Edu Private",0
+"Croydon","State School",25
+"Croydon","Grammar",0
+"Croydon","Private",12
+"Croydon","Further Edu State",3
+"Croydon","Further Edu Private",0
+"Ealing","State School",17
+"Ealing","Grammar",0
+"Ealing","Private",7
+"Ealing","Further Edu State",1
+"Ealing","Further Edu Private",0
+"Enfield","State School",21
+"Enfield","Grammar",1
+"Enfield","Private",4
+"Enfield","Further Edu State",1
+"Enfield","Further Edu Private",0
+"Greenwich","State School",16
+"Greenwich","Grammar",0
+"Greenwich","Private",10
+"Greenwich","Further Edu State",3
+"Greenwich","Further Edu Private",0
+"Hackney","State School",16
+"Hackney","Grammar",0
+"Hackney","Private",10
+"Hackney","Further Edu State",3
+"Hackney","Further Edu Private",0
+"Hammersmith and Fulham","State School",11
+"Hammersmith and Fulham","Grammar",0
+"Hammersmith and Fulham","Private",6
+"Hammersmith and Fulham","Further Edu State",2
+"Hammersmith and Fulham","Further Edu Private",0
+"Haringey","State School",12
+"Haringey","Grammar",0
+"Haringey","Private",4
+"Haringey","Further Edu State",3
+"Haringey","Further Edu Private",0
+"Harrow","State School",14
+"Harrow","Grammar",0
+"Harrow","Private",4
+"Harrow","Further Edu State",3
+"Harrow","Further Edu Private",1
+"Havering","State School",18
+"Havering","Grammar",0
+"Havering","Private",1
+"Havering","Further Edu State",3
+"Havering","Further Edu Private",0
+"Hillingdon","State School",22
+"Hillingdon","Grammar",0
+"Hillingdon","Private",4
+"Hillingdon","Further Edu State",1
+"Hillingdon","Further Edu Private",0
+"Hounslow","State School",20
+"Hounslow","Grammar",0
+"Hounslow","Private",5
+"Hounslow","Further Edu State",1
+"Hounslow","Further Edu Private",0
+"Islington","State School",10
+"Islington","Grammar",0
+"Islington","Private",1
+"Islington","Further Edu State",3
+"Islington","Further Edu Private",3
+"Kensington and Chelsea","State School",6
+"Kensington and Chelsea","Grammar",0
+"Kensington and Chelsea","Private",10
+"Kensington and Chelsea","Further Edu State",2
+"Kensington and Chelsea","Further Edu Private",0
+"Kingston upon Thames","State School",7
+"Kingston upon Thames","Grammar",2
+"Kingston upon Thames","Private",5
+"Kingston upon Thames","Further Edu State",2
+"Kingston upon Thames","Further Edu Private",0
+"Lambeth","State School",17
+"Lambeth","Grammar",0
+"Lambeth","Private",2
+"Lambeth","Further Edu State",6
+"Lambeth","Further Edu Private",0
+"Lewisham","State School",14
+"Lewisham","Grammar",0
+"Lewisham","Private",3
+"Lewisham","Further Edu State",2
+"Lewisham","Further Edu Private",0
+"Merton","State School",9
+"Merton","Grammar",0
+"Merton","Private",5
+"Merton","Further Edu State",1
+"Merton","Further Edu Private",0
+"Newham","State School",21
+"Newham","Grammar",0
+"Newham","Private",5
+"Newham","Further Edu State",4
+"Newham","Further Edu Private",0
+"Redbridge","State School",17
+"Redbridge","Grammar",2
+"Redbridge","Private",2
+"Redbridge","Further Edu State",2
+"Redbridge","Further Edu Private",1
+"Richmond upon Thames","State School",11
+"Richmond upon Thames","Grammar",0
+"Richmond upon Thames","Private",10
+"Richmond upon Thames","Further Edu State",2
+"Richmond upon Thames","Further Edu Private",0
+"Southwark","State School",20
+"Southwark","Grammar",0
+"Southwark","Private",3
+"Southwark","Further Edu State",1
+"Southwark","Further Edu Private",0
+"Sutton","State School",10
+"Sutton","Grammar",5
+"Sutton","Private",1
+"Sutton","Further Edu State",3
+"Sutton","Further Edu Private",0
+"Tower Hamlets","State School",17
+"Tower Hamlets","Grammar",0
+"Tower Hamlets","Private",7
+"Tower Hamlets","Further Edu State",4
+"Tower Hamlets","Further Edu Private",0
+"Waltham Forest","State School",15
+"Waltham Forest","Grammar",0
+"Waltham Forest","Private",4
+"Waltham Forest","Further Edu State",0
+"Waltham Forest","Further Edu Private",0
+"Wandsworth","State School",11
+"Wandsworth","Grammar",0
+"Wandsworth","Private",7
+"Wandsworth","Further Edu State",2
+"Wandsworth","Further Edu Private",0
+"Westminster","State School",11
+"Westminster","Grammar",0
+"Westminster","Private",17
+"Westminster","Further Edu State",4
+"Westminster","Further Edu Private",0
