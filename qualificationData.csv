@@ -80,87 +80,87 @@
 "Havering","E09000016","White",9745,27893,37735
 "Havering","E09000016","Other",136,451,1746
 "Hillingdon","E09000017","Asian, Asian British or Asian Welsh",1519,9338,36936
-"Hillingdon","E09000017","Black, Black British, Black Welsh, Caribbean or African",504,504,7210
-"Hillingdon","E09000017","Mixed or Mulitple ethnic groups",271,271,2644
-"Hillingdon","E09000017","White",7603,7603,38111
-"Hillingdon","E09000017","Other",401,401,1746
-"Hounslow","E09000018","Asian, Asian British or Asian Welsh",1755,1755,38123
-"Hounslow","E09000018","Black, Black British, Black Welsh, Caribbean or African",437,437,5901
-"Hounslow","E09000018","Mixed or Mulitple ethnic groups",279,279,3012
-"Hounslow","E09000018","White",5153,5153,41689
-"Hounslow","E09000018","Other",466,466,6351
-"Islington","E09000019","Asian, Asian British or Asian Welsh",219,219,10727
-"Islington","E09000019","Black, Black British, Black Welsh, Caribbean or African",754,754,8627
-"Islington","E09000019","Mixed or Mulitple ethnic groups",267,267,5723
-"Islington","E09000019","White",2702,2702,73384
-"Islington","E09000019","Other",270,270,5512
-"Kensington and Chelsea","E09000020","Asian, Asian British or Asian Welsh",225,225,8879
-"Kensington and Chelsea","E09000020","Black, Black British, Black Welsh, Caribbean or African",298,298,4000
-"Kensington and Chelsea","E09000020","Mixed or Mulitple ethnic groups",170,170,3483
-"Kensington and Chelsea","E09000020","White",1451,1451,50834
-"Kensington and Chelsea","E09000020","Other",235,235,6030
-"Kingston upon Thames","E09000021","Asian, Asian British or Asian Welsh",344,344,14262
-"Kingston upon Thames","E09000021","Black, Black British, Black Welsh, Caribbean or African",96,96,1969
-"Kingston upon Thames","E09000021","Mixed or Mulitple ethnic groups",97,97,2427
-"Kingston upon Thames","E09000021","White",3604,3604,46777
-"Kingston upon Thames","E09000021","Other",183,183,4149
-"Lambeth","E09000022","Asian, Asian British or Asian Welsh",320,320,11350
-"Lambeth","E09000022","Black, Black British, Black Welsh, Caribbean or African",2175,2175,22232
-"Lambeth","E09000022","Mixed or Mulitple ethnic groups",542,542,8622
-"Lambeth","E09000022","White",3345,3345,10337
-"Lambeth","E09000022","Other",590,590,5729
-"Lewisham","E09000023","Asian, Asian British or Asian Welsh",362,362,11062
-"Lewisham","E09000023","Black, Black British, Black Welsh, Caribbean or African",2152,2152,26483
-"Lewisham","E09000023","Mixed or Mulitple ethnic groups",474,474,6549
-"Lewisham","E09000023","White",3845,3845,72393
-"Lewisham","E09000023","Other",428,428,4327
-"Merton","E09000024","Asian, Asian British or Asian Welsh",556,556,16311
-"Merton","E09000024","Black, Black British, Black Welsh, Caribbean or African",635,635,8161
-"Merton","E09000024","Mixed or Mulitple ethnic groups",216,216,3382
-"Merton","E09000024","White",4109,4109,54958
-"Merton","E09000024","Other",237,237,3601
-"Newham","E09000025","Asian, Asian British or Asian Welsh",2252,2252,16311
-"Newham","E09000025","Black, Black British, Black Welsh, Caribbean or African",1437,1437,8161
-"Newham","E09000025","Mixed or Mulitple ethnic groups",329,329,3382
-"Newham","E09000025","White",4139,4139,54958
-"Newham","E09000025","Other",462,462,3601
-"Redbridge","E09000026","Asian, Asian British or Asian Welsh",1794,1794,16311
-"Redbridge","E09000026","Black, Black British, Black Welsh, Caribbean or African",585,585,19870
-"Redbridge","E09000026","Mixed or Mulitple ethnic groups",224,224,4047
-"Redbridge","E09000026","White",4572,4572,33434
-"Redbridge","E09000026","Other",381,381,5227
-"Richmond upon Thames","E09000027","Asian, Asian British or Asian Welsh",169,169,8820
-"Richmond upon Thames","E09000027","Black, Black British, Black Welsh, Caribbean or African",81,81,1607
-"Richmond upon Thames","E09000027","Mixed or Mulitple ethnic groups",100,100,3224
-"Richmond upon Thames","E09000027","White",3249,3249,77369
-"Richmond upon Thames","E09000027","Other",144,144,3069
-"Southwark","E09000028","Asian, Asian British or Asian Welsh",329,329,15116
-"Southwark","E09000028","Black, Black British, Black Welsh, Caribbean or African",1898,1898,25770
-"Southwark","E09000028","Mixed or Mulitple ethnic groups",481,481,7177
-"Southwark","E09000028","White",3140,3140,86348
-"Southwark","E09000028","Other",660,660,6102
-"Sutton","E09000029","Asian, Asian British or Asian Welsh",399,399,16543
-"Sutton","E09000029","Black, Black British, Black Welsh, Caribbean or African",284,284,5123
-"Sutton","E09000029","Mixed or Mulitple ethnic groups",157,157,2131
-"Sutton","E09000029","White",6284,6284,39402
-"Sutton","E09000029","Other",158,158,2690
-"Tower Hamlets","E09000030","Asian, Asian British or Asian Welsh",1973,1973,37879
-"Tower Hamlets","E09000030","Black, Black British, Black Welsh, Caribbean or African",495,495,7478
-"Tower Hamlets","E09000030","Mixed or Mulitple ethnic groups",262,262,5901
-"Tower Hamlets","E09000030","White",2457,2457,70951
-"Tower Hamlets","E09000030","Other",255,255,5091
-"Waltham Forest","E09000031","Asian, Asian British or Asian Welsh",740,740,16221
-"Waltham Forest","E09000031","Black, Black British, Black Welsh, Caribbean or African",1161,1161,13411
-"Waltham Forest","E09000031","Mixed or Mulitple ethnic groups",304,304,4641
-"Waltham Forest","E09000031","White",5062,5062,57186
-"Waltham Forest","E09000031","Other",432,432,4451
-"Wandsworth","E09000032","Asian, Asian British or Asian Welsh",486,486,17152
-"Wandsworth","E09000032","Black, Black British, Black Welsh, Caribbean or African",888,888,10141
-"Wandsworth","E09000032","Mixed or Mulitple ethnic groups",323,323,6976
-"Wandsworth","E09000032","White",3551,3551,13131
-"Wandsworth","E09000032","Other",330,330,5759
-"Westminster","E09000033","Asian, Asian British or Asian Welsh",498,498,17100
-"Westminster","E09000033","Black, Black British, Black Welsh, Caribbean or African",412,412,5826
-"Westminster","E09000033","Mixed or Mulitple ethnic groups",210,210,5256
-"Westminster","E09000033","White",2179,2179,63989
-"Westminster","E09000033","Other",450,450,10185
+"Hillingdon","E09000017","Black, Black British, Black Welsh, Caribbean or African",504,3180,7210
+"Hillingdon","E09000017","Mixed or Mulitple ethnic groups",271,1631,2644
+"Hillingdon","E09000017","White",7603,19857,38111
+"Hillingdon","E09000017","Other",401,1827,1746
+"Hounslow","E09000018","Asian, Asian British or Asian Welsh",1755,8944,38123
+"Hounslow","E09000018","Black, Black British, Black Welsh, Caribbean or African",437,2351,5901
+"Hounslow","E09000018","Mixed or Mulitple ethnic groups",279,1372,3012
+"Hounslow","E09000018","White",5153,13577,41689
+"Hounslow","E09000018","Other",466,1802,6351
+"Islington","E09000019","Asian, Asian British or Asian Welsh",219,2368,10727
+"Islington","E09000019","Black, Black British, Black Welsh, Caribbean or African",754,3610,8627
+"Islington","E09000019","Mixed or Mulitple ethnic groups",267,1825,5723
+"Islington","E09000019","White",2702,13037,73384
+"Islington","E09000019","Other",270,1497,5512
+"Kensington and Chelsea","E09000020","Asian, Asian British or Asian Welsh",225,2043,8879
+"Kensington and Chelsea","E09000020","Black, Black British, Black Welsh, Caribbean or African",298,1491,4000
+"Kensington and Chelsea","E09000020","Mixed or Mulitple ethnic groups",170,1094,3483
+"Kensington and Chelsea","E09000020","White",1451,9366,50834
+"Kensington and Chelsea","E09000020","Other",235,1445,6030
+"Kingston upon Thames","E09000021","Asian, Asian British or Asian Welsh",344,2839,14262
+"Kingston upon Thames","E09000021","Black, Black British, Black Welsh, Caribbean or African",96,744,1969
+"Kingston upon Thames","E09000021","Mixed or Mulitple ethnic groups",97,911,2427
+"Kingston upon Thames","E09000021","White",3604,14357,46777
+"Kingston upon Thames","E09000021","Other",183,913,4149
+"Lambeth","E09000022","Asian, Asian British or Asian Welsh",320,2277,11350
+"Lambeth","E09000022","Black, Black British, Black Welsh, Caribbean or African",2175,9505,22232
+"Lambeth","E09000022","Mixed or Mulitple ethnic groups",542,2636,8622
+"Lambeth","E09000022","White",3345,15705,10337
+"Lambeth","E09000022","Other",590,1812,5729
+"Lewisham","E09000023","Asian, Asian British or Asian Welsh",362,2348,11062
+"Lewisham","E09000023","Black, Black British, Black Welsh, Caribbean or African",2152,10008,26483
+"Lewisham","E09000023","Mixed or Mulitple ethnic groups",474,2434,6549
+"Lewisham","E09000023","White",3845,15347,72393
+"Lewisham","E09000023","Other",428,1314,4327
+"Merton","E09000024","Asian, Asian British or Asian Welsh",556,3678,16311
+"Merton","E09000024","Black, Black British, Black Welsh, Caribbean or African",635,2908,8161
+"Merton","E09000024","Mixed or Mulitple ethnic groups",216,1225,3382
+"Merton","E09000024","White",4109,12990,54958
+"Merton","E09000024","Other",237,986,3601
+"Newham","E09000025","Asian, Asian British or Asian Welsh",2252,14479,16311
+"Newham","E09000025","Black, Black British, Black Welsh, Caribbean or African",1437,7652,8161
+"Newham","E09000025","Mixed or Mulitple ethnic groups",329,1671,3382
+"Newham","E09000025","White",4139,10350,54958
+"Newham","E09000025","Other",462,1631,3601
+"Redbridge","E09000026","Asian, Asian British or Asian Welsh",1794,15080,16311
+"Redbridge","E09000026","Black, Black British, Black Welsh, Caribbean or African",585,3109,19870
+"Redbridge","E09000026","Mixed or Mulitple ethnic groups",224,1274,4047
+"Redbridge","E09000026","White",4572,11841,33434
+"Redbridge","E09000026","Other",381,1770,5227
+"Richmond upon Thames","E09000027","Asian, Asian British or Asian Welsh",169,1327,8820
+"Richmond upon Thames","E09000027","Black, Black British, Black Welsh, Caribbean or African",81,435,1607
+"Richmond upon Thames","E09000027","Mixed or Mulitple ethnic groups",100,846,3224
+"Richmond upon Thames","E09000027","White",3249,15706,77369
+"Richmond upon Thames","E09000027","Other",144,516,3069
+"Southwark","E09000028","Asian, Asian British or Asian Welsh",329,3316,15116
+"Southwark","E09000028","Black, Black British, Black Welsh, Caribbean or African",1898,9092,25770
+"Southwark","E09000028","Mixed or Mulitple ethnic groups",481,2262,7177
+"Southwark","E09000028","White",3140,15051,86348
+"Southwark","E09000028","Other",660,1854,6102
+"Sutton","E09000029","Asian, Asian British or Asian Welsh",399,2949,16543
+"Sutton","E09000029","Black, Black British, Black Welsh, Caribbean or African",284,1399,5123
+"Sutton","E09000029","Mixed or Mulitple ethnic groups",157,1082,2131
+"Sutton","E09000029","White",6284,19690,39402
+"Sutton","E09000029","Other",158,746,2690
+"Tower Hamlets","E09000030","Asian, Asian British or Asian Welsh",1973,14971,37879
+"Tower Hamlets","E09000030","Black, Black British, Black Welsh, Caribbean or African",495,2969,7478
+"Tower Hamlets","E09000030","Mixed or Mulitple ethnic groups",262,1626,5901
+"Tower Hamlets","E09000030","White",2457,12704,70951
+"Tower Hamlets","E09000030","Other",255,1075,5091
+"Waltham Forest","E09000031","Asian, Asian British or Asian Welsh",740,5998,16221
+"Waltham Forest","E09000031","Black, Black British, Black Welsh, Caribbean or African",1161,5342,13411
+"Waltham Forest","E09000031","Mixed or Mulitple ethnic groups",304,1719,4641
+"Waltham Forest","E09000031","White",5062,14199,57186
+"Waltham Forest","E09000031","Other",432,1512,4451
+"Wandsworth","E09000032","Asian, Asian British or Asian Welsh",486,3617,17152
+"Wandsworth","E09000032","Black, Black British, Black Welsh, Caribbean or African",888,4277,10141
+"Wandsworth","E09000032","Mixed or Mulitple ethnic groups",323,1849,6976
+"Wandsworth","E09000032","White",3551,20195,13131
+"Wandsworth","E09000032","Other",330,1276,5759
+"Westminster","E09000033","Asian, Asian British or Asian Welsh",498,3509,17100
+"Westminster","E09000033","Black, Black British, Black Welsh, Caribbean or African",412,2116,5826
+"Westminster","E09000033","Mixed or Mulitple ethnic groups",210,1542,5256
+"Westminster","E09000033","White",2179,12109,63989
+"Westminster","E09000033","Other",450,2743,10185
